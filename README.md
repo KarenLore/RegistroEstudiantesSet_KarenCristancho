@@ -54,3 +54,7 @@ El estudiante Ana está en la lista.
 
 **Autor**
 **Karen Cristancho**
+
+📬 Contacto
+- 📧 Correo electrónico: criscacereskarenlorena@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karencristancho
